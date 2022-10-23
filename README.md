@@ -8,7 +8,7 @@
 
 ## A Tool that Helps You Generate a Secure Password
 ## Usage
- To Access click the link --> https://jahazielfaye.github.io/Password-Generator-Challenge/
+ To Access, Click the Link --> https://jahazielfaye.github.io/Password-Generator-Challenge/
 
  ![Screenshot](./Assets/Screenshot%20.png)
 
